@@ -1,5 +1,6 @@
-package Binary_Searching.problems;
+package Binary_Searching.problems.MeduimLeetcode;
 
+// GFG question - medium
 public class Find_position_of_an_element_in_a_sorted_array_of_infinite_numbers {
     public static void main(String[] args) {
         int[] arr = {3, 5, 7, 9, 10, 90,
